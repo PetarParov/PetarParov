@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PetarParov
+## 👋 Hi, I’m @PetarParov
 - 👀 I’m interested in hiking, sporst, gaming and programming
 - 👨‍💻 I’m currently learning JAVA programming @ SoftUni
 - 👥 I’m looking to collaborate on new projects
