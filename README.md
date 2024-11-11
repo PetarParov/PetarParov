@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @PetarParov
 
-- 👨‍💻 I’m currently learning JAVA programming @ SoftUni
+- 👨‍💻 I’m currently studying JAVA programming @ SoftUni
 - 👀 I’m interested in hiking, sports, gaming and programming
 - 👥 I’m looking to collaborate on new projects
 - 📫 How to reach me 👇
